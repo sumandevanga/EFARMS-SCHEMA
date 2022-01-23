@@ -1,0 +1,18 @@
+{
+    "guests": [
+        {
+            "id": 1,
+            "firstName": "Anand",
+            "lastName": "Prabhu",
+            "email": "anand@gmail.com",
+            "phone": "9000000000"
+        },
+        {
+            "id": 2,
+            "firstName": "Amit",
+            "lastName": "Singh",
+            "email": "amit@gmail.com",
+            "phone": "9111111111"
+        }
+    ]
+}
